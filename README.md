@@ -1,1 +1,1 @@
-# running_app
+# Running app using Django web framework
